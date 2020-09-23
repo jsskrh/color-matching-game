@@ -1,5 +1,5 @@
 # RGB Color Game
-Brush up your skills in RGB color model with this fun and interactive game. Guess the RGB correct and win! Option to switch between 3 difficulty level.
+Brush up your skills in RGB color model with this fun and interactive game. Guess the RGB correct and win! Option to switch between 2 difficulty level.
 
 ## Getting Started
 Start by either downloading the zip file or clone with HTTPS.
@@ -17,7 +17,7 @@ Double-click the "index.html" file after unzipping the downloaded zip file.
 * [CSS] (https://css.com) - Style sheet language
 
 ## Authors
-* Jesse Akorah (https://github.com/jsskrh)
+* **Jesse Akorah** (https://github.com/jsskrh)
 
 ## Acknowledgments
 * Colt Steele's Bootcamp course
