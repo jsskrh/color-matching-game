@@ -1,4 +1,4 @@
-# RGB Color Game
+# RGB Color Matching Game
 Brush up your skills in RGB color model with this fun and interactive game. Guess the RGB correct and win! Option to switch between 2 difficulty level.
 
 ## Getting Started
